@@ -58,10 +58,4 @@ Hi there! 👋 I’m **Hardik Sood** – MSc Data Science student at **Chandigar
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksood1&theme=dark&layout=compact&exclude_repo=portfolio,TriwizardaThon&cache_seconds=1800)
 
-<!-- GitHub Trophy Showcase -->
-![trophy](https://github-profile-trophy.vercel.app/?username=hardiksood1&theme=onedark&margin-w=10&margin-h=10)
-
-</div>
-
----
 
