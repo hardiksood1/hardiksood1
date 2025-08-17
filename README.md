@@ -46,7 +46,6 @@ Hi there! 👋 I’m **Hardik Sood** – MSc Data Science student at **Chandigar
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats & Highlights  
 
 <div align="center">
 
@@ -66,20 +65,3 @@ Hi there! 👋 I’m **Hardik Sood** – MSc Data Science student at **Chandigar
 
 ---
 
-## 🚀 Featured Repositories  
-
-| Repository | Description | Stars | Forks |
-|------------|-------------|:-----:|:-----:|
-| **Node.js_Authentication_API_with_Python_visualization** | Secure Node.js Authentication API with Python data visualization backend. | ![Stars](https://img.shields.io/github/stars/hardiksood1/Node.js_Authentication_API_with_Python_visualization?style=flat-square&logo=github) | ![Forks](https://img.shields.io/github/forks/hardiksood1/Node.js_Authentication_API_with_Python_visualization?style=flat-square&logo=github) |
-| **Crowd-Detection-Alert-System** | AI system for crowd monitoring and safety alerts using deep learning. | ![Stars](https://img.shields.io/github/stars/hardiksood1/Crowd-Detection-Alert-System?style=flat-square&logo=github) | ![Forks](https://img.shields.io/github/forks/hardiksood1/Crowd-Detection-Alert-System?style=flat-square&logo=github) |
-| **market-basket-analysis** | Data mining project analyzing customer purchase patterns. | ![Stars](https://img.shields.io/github/stars/hardiksood1/market-basket-analysis?style=flat-square&logo=github) | ![Forks](https://img.shields.io/github/forks/hardiksood1/market-basket-analysis?style=flat-square&logo=github) |
-| **credit-card-fraud-detection** | Machine learning model to detect fraudulent credit card transactions. | ![Stars](https://img.shields.io/github/stars/hardiksood1/credit-card-fraud-detection?style=flat-square&logo=github) | ![Forks](https://img.shields.io/github/forks/hardiksood1/credit-card-fraud-detection?style=flat-square&logo=github) |
-| **Stock-prediction** | Predicting stock prices using ML regression techniques. | ![Stars](https://img.shields.io/github/stars/hardiksood1/Stock-prediction?style=flat-square&logo=github) | ![Forks](https://img.shields.io/github/forks/hardiksood1/Stock-prediction?style=flat-square&logo=github) |
-| **diabetic-patients-prediction** | Health analytics project predicting diabetes risk. | ![Stars](https://img.shields.io/github/stars/hardiksood1/diabetic-patients-prediction?style=flat-square&logo=github) | ![Forks](https://img.shields.io/github/forks/hardiksood1/diabetic-patients-prediction?style=flat-square&logo=github) |
-
----
-
-✨ Explore more projects in my [GitHub Repositories](https://github.com/hardiksood1?tab=repositories).
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
