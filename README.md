@@ -45,9 +45,33 @@ Hi there! 👋 I’m **Hardik Sood** – MSc Data Science student at **Chandigar
 ---
 
 # 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardiksood1&theme=dark&show_icons=true&count_private=true&cache_seconds=86400)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardiksood1&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=FF4500&ring=FF6347&currStreakLabel=FFD700)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksood1&theme=dark&layout=compact&cache_seconds=86400)
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardiksood1&theme=dark&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&cache_seconds=1800)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardiksood1&theme=dark&date_format=M%20j%5B,%20Y%5D)
+
+<!-- Top Languages (exclude small repos if needed) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksood1&theme=dark&layout=compact&exclude_repo=some-minor-repo&cache_seconds=1800)
+
+<!-- GitHub Trophy Showcase -->
+![trophy](https://github-profile-trophy.vercel.app/?username=hardiksood1&theme=onedark&margin-w=10&margin-h=10)
+
+</div>
+
+---
+
+## 🚀 Featured Repositories  
+
+| Repository | Stars | Forks |
+|------------|:-----:|:-----:|
+| **AI News Aggregator** | ![Stars](https://img.shields.io/github/stars/hardiksood1/ai-news-aggregator?style=flat-square&logo=github) | ![Forks](https://img.shields.io/github/forks/hardiksood1/ai-news-aggregator?style=flat-square&logo=github) |
+| **Semantic Quote RAG** | ![Stars](https://img.shields.io/github/stars/hardiksood1/semantic-quote-rag?style=flat-square&logo=github) | ![Forks](https://img.shields.io/github/forks/hardiksood1/semantic-quote-rag?style=flat-square&logo=github) |
+| **Other Cool Project** | ![Stars](https://img.shields.io/github/stars/hardiksood1/other-cool-project?style=flat-square&logo=github) | ![Forks](https://img.shields.io/github/forks/hardiksood1/other-cool-project?style=flat-square&logo=github) |
+
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
