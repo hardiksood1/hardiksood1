@@ -45,10 +45,9 @@ Hi there! 👋 I’m **Hardik Sood** – MSc Data Science student at **Chandigar
 ---
 
 # 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardiksood1&theme=dark&show_icons=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardiksood1&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksood1&theme=dark&layout=compact)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardiksood1&theme=dark&show_icons=true&count_private=true&cache_seconds=86400)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardiksood1&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=FF4500&ring=FF6347&currStreakLabel=FFD700)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksood1&theme=dark&layout=compact&cache_seconds=86400)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
