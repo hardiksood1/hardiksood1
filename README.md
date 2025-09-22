@@ -9,7 +9,7 @@ Hi there! 👋 I’m **Hardik Sood** – an MSc Data Science student at **Chandi
 
 📫 Reach me at: **[hardiksood8@gmail.com](mailto:hardiksood8@gmail.com)**  
 
-😄 Pronouns: **He/Him**
+
 ---
 
 ## 🌐 Connect with Me
