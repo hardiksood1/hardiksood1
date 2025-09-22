@@ -1,5 +1,6 @@
 # 💫 About Me
-Hi there! 👋 I’m **Hardik Sood** – MSc Data Science student at **Chandigarh University**.  
+Hi there! 👋 I’m **Hardik Sood** – MSc Data Science student at **Chandigarh University**.
+🌱 I’m currently learning MLOPs, Generative AI
 🔭 I work on **Machine Learning, AI, and Data-Driven Solutions**.  
 🌱 Passionate about building **predictive models, AI pipelines, and innovative applications**.  
 💬 Ask me about **Python, Node.js, ML/DL frameworks, or data visualization**.  
