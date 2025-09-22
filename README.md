@@ -1,12 +1,15 @@
 # 💫 About Me
-Hi there! 👋 I’m **Hardik Sood** – MSc Data Science student at **Chandigarh University**.
-🌱 I’m currently learning **MLOPs,Generative AI**.
-🔭 I work on **Machine Learning, AI, and Data-Driven Solutions**.  
-🌱 Passionate about building **predictive models, AI pipelines, and innovative applications**.  
-💬 Ask me about **Python, Node.js, ML/DL frameworks, or data visualization**.  
-📫 Reach me at: **[hardiksood8@gmail.com](mailto:hardiksood8@gmail.com)**  
-😄 Pronouns: **He/Him**  
+Hi there! 👋 I’m **Hardik Sood** – an MSc Data Science student at **Chandigarh University**.  
 
+🌱 I’m currently diving deep into **MLOps, Generative AI, and NVIDIA AI stack** including **Triton, TensorRT, and performance benchmarking**.  
+
+🔭 I work on **Machine Learning, Deep Learning, and AI-driven solutions**, building **predictive models, AI pipelines, and innovative applications**.  
+
+💬 I love sharing knowledge about **Python, Node.js, ML/DL frameworks, data visualization, and AI model optimization**.  
+
+📫 Reach me at: **[hardiksood8@gmail.com](mailto:hardiksood8@gmail.com)**  
+
+😄 Pronouns: **He/Him**
 ---
 
 ## 🌐 Connect with Me
