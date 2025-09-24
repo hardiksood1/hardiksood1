@@ -47,19 +47,3 @@ Hi there! 👋 I’m **Hardik Sood** – an MSc Data Science student at **Chandi
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 ---
-
-# 📊 GitHub Stats
-
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardiksood1&theme=dark&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&cache_seconds=1800)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardiksood1&theme=dark&date_format=M%20j%5B,%20Y%5D)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksood1&theme=dark&layout=compact&exclude_repo=portfolio,TriwizardaThon&cache_seconds=1800)
-
-
