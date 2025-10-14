@@ -12,7 +12,7 @@ Hi there! 👋 I’m **Hardik Sood** – an MSc Data Science student at **Chandi
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardik-sood-0a8a14229)  
 [![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardiksood8@gmail.com)
 
