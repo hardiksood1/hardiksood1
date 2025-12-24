@@ -9,7 +9,9 @@ Hi there! 👋 I’m **Hardik Sood** – an MSc Data Science student at **Chandi
 
  Reach me at: **[hardiksood8@gmail.com](mailto:hardiksood8@gmail.com)**  
 
-
+**Demo video link**
+1. speed detection : https://www.linkedin.com/posts/hardik-sood-0a8a14229_artificialintelligence-computervision-smartcities-activity-7409460796906434561-4Nmp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlH9IABYkdjE9QQyxF-qGeSto6hZgFJSao
+2. ChatGPT-style RAG Assistant   :  https://www.linkedin.com/posts/hardik-sood-0a8a14229_ai-rag-generativeai-activity-7408754702038827010-MY0_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlH9IABYkdjE9QQyxF-qGeSto6hZgFJSao
 ---
 
 ##  Connect with Me
