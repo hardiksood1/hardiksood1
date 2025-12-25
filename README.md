@@ -1,5 +1,5 @@
 # About Me
-Hi there! 👋 I’m **Hardik Sood** – an MSc Data Science student at **Chandigarh University**.  
+Hi there! 👋 I’m **Hardik Sood** – an MSc Data Science student worh as Intern In AI.  
 
  I’m currently diving deep into **MLOps, Generative AI, and NVIDIA AI stack** including **Triton, TensorRT, and performance benchmarking**.  
 
