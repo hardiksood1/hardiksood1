@@ -14,6 +14,7 @@ Hi there! 👋 I’m **Hardik Sood** – an MSc Data Science student work as an 
 2. ChatGPT-style RAG Assistant   :  https://www.linkedin.com/posts/hardik-sood-0a8a14229_ai-rag-generativeai-activity-7408754702038827010-MY0_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlH9IABYkdjE9QQyxF-qGeSto6hZgFJSao
 3.  News Text Classification Model : https://www.linkedin.com/posts/hardik-sood-0a8a14229_nlp-roberta-onnx-activity-7410281217574539264-Ik9k?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlH9IABYkdjE9QQyxF-qGeSto6hZgFJSao
 4. Building a Hybrid AI Risk Assessment Engine for Safer AI Systems : https://www.linkedin.com/posts/hardik-sood-0a8a14229_ai-cybersecurity-responsibleai-activity-7412463696108679168-XADy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlH9IABYkdjE9QQyxF-qGeSto6hZgFJSao
+5. Ai Based Helmet Detection: https://www.linkedin.com/posts/hardik-sood-0a8a14229_computervision-yolo-aiforgood-activity-7413913253099175936-1X1X?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlH9IABYkdjE9QQyxF-qGeSto6hZgFJSao
 ---
 
 ##  Connect with Me
